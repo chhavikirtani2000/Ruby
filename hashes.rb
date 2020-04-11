@@ -8,7 +8,7 @@ states = {
    #another way to represent keys
 }
 puts states
-puts states["Oregon"]
+puts states["Oregon"] #will print "OR"
 puts states[:Pennsylvania]
 puts states[:NewDelhi]
 puts states[3]
